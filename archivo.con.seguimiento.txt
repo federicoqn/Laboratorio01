@@ -1,2 +1,4 @@
 Hola mundo
 Editamos el archivo para el punto seis
+
+Lab 2 - Ejer2 ( Dentro del repositorio original, vamos a generar algún cambio significativo )
